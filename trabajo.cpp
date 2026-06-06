@@ -50,7 +50,7 @@ int main() {
         }
         else if (opcion == 3) {
             cout << "Gracias por usar el sistema." << endl;
-            break; // Sale del bucle
+            break;
         }
         else {
             cout << "Opcion invalida. Intente nuevamente." << endl;
@@ -80,7 +80,7 @@ int main() {
         cin >> numero;
 
         if (numero == 0) {
-            break; // Finaliza el ciclo
+            break; 
         }
 
         if (numero % 2 == 0) {
