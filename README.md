@@ -1,4 +1,4 @@
-## Hi there 👋
+## BUENAS SOY LEANDRO Y ME GUSTA PROGRAMAR 👋
 
 <!--
 **sebastian-bernal26/sebastian-bernal26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
