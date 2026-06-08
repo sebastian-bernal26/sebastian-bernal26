@@ -1,4 +1,4 @@
-## BUENAS SOY LEANDRO Y ME GUSTA PROGRAMAR 👋
+## BOSTERO DESDE LA CUNA PAPA👋
 
 <!--
 **sebastian-bernal26/sebastian-bernal26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
